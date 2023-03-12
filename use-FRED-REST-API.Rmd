@@ -1,0 +1,9 @@
+---
+title: "use-FRED-REST-API"
+output: html_notebook
+---
+
+```{r}
+source("config.R")
+```
+
